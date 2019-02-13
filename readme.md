@@ -17,6 +17,7 @@ make MALLOC=libc　　
 cd src && make install
 
 **服务化配置**
+
 cd  redis-4.0.6/utils && ./install_server.sh
 
 reboot 重启即可
